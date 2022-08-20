@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "62ff1a94a5017157e8442bfd",
+    "StudentFirstName": "Akhil Nayak",
+    "CollegeName": "R G Kedia",
+    "Location": "Hyderabad",
+    "__v": 0
+  },
+  {
+    "_id": "62ff1b1ca6ae9f50b4a15e77",
+    "StudentFirstName": "RishiKesh",
+    "CollegeName": "R G Kedia",
+    "Location": "UttarPradesh",
+    "__v": 0
+  },
+  {
+    "_id": "62ff1d42a26806ebd1cea85a",
+    "StudentFirstName": "Himanshu BI",
+    "CollegeName": "R G Kedia",
+    "Location": "Mumbai",
+    "__v": 0
+  },
+  {
+    "_id": "62ff1dfee2af64aeef60fa7b",
+    "StudentFirstName": "Manisha BI",
+    "CollegeName": "R G Kedia",
+    "Location": "Mumbai",
+    "__v": 0
+  },
+  {
+    "_id": "62ff1e7ac6f21eae1a1b8668",
+    "StudentFirstName": "Rishab BI",
+    "CollegeName": "R G Kedia",
+    "Location": "Mumbai",
+    "__v": 0
+  }
+]
